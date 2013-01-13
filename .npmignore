@@ -1,0 +1,4 @@
+coffee/
+npm-debug.log
+.git/
+.gitignore

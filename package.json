@@ -1,0 +1,25 @@
+{
+  "name": "VanillaJS",
+  "version": "0.0.1",
+  "description": "jQuery-like Aliases (NOT Wrappers) to HTML5 Selector API / Raw Document",
+  "main": "js/vanilla.js",
+  "scripts": {
+    "pretest": "coffee --bare -o js/ coffee/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikesmullin/VanillaJS.git"
+  },
+  "keywords": [
+    "Vanilla",
+    "Javascript",
+    "HTML5 Selector API",
+    "Raw",
+    "Document",
+    "Library",
+    "like jQuery"
+  ],
+  "author": "Mike Smullin <mike@smullindesign.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
