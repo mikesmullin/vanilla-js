@@ -32,4 +32,4 @@ console.log pp.length # will be same as before
 
 ## View Source
 
-Readable code is in [./coffee/vanilla.coffee](https://github.com/mikesmullin/VanillaJS/blob/stable/coffee/vanilla.coffee)
+Commented code is in [./coffee/](https://github.com/mikesmullin/VanillaJS/blob/stable/coffee/)
