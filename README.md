@@ -1,4 +1,4 @@
-## VanillaJS
+## Vanilla JS - fast, lightweight, cross-platform framework
 
 jQuery-like Aliases (NOT Wrappers) to HTML5 Selector API / Raw Document
 
@@ -32,7 +32,7 @@ console.log pp.length # will be same as before
 
 ## View Source
 
-Commented code is in [./coffee/](https://github.com/mikesmullin/VanillaJS/blob/stable/coffee/)
+Commented code is in [./coffee/](https://github.com/mikesmullin/vanilla-js/blob/stable/coffee/)
 
 ## Helpful
 
