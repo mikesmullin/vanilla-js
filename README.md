@@ -33,3 +33,7 @@ console.log pp.length # will be same as before
 ## View Source
 
 Commented code is in [./coffee/](https://github.com/mikesmullin/VanillaJS/blob/stable/coffee/)
+
+## Helpful
+
+* [quirksmode.org](http://www.quirksmode.org/dom/w3c_html.html)
