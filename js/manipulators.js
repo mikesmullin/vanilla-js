@@ -18,3 +18,14 @@ Element.prototype.empty = function() {
   this.innerHTML = '';
   return this;
 };
+
+Element.prototype.data = function(k, v) {
+  if (!k) {
+    return new Error('key is required as first argument to Element.prototype.data()');
+  }
+  if (v) {
+    return this.getAttribute(k);
+  } else {
+    return this.setAttribute(k, v);
+  }
+};
