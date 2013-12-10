@@ -18,6 +18,10 @@
     "Library",
     "like jQuery"
   ],
+  "devDependencies": {
+    "grunt": "~0.4",
+    "grunt-contrib-coffee ": "~0.4"
+  },
   "author": "Mike Smullin <mike@smullindesign.com>",
   "license": "MIT",
   "readmeFilename": "README.md"
